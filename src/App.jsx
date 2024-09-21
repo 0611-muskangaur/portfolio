@@ -1,0 +1,25 @@
+import { useState } from 'react'
+import './style/App.css'
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import Skills from './components/Skills'
+import About from './components/About'
+// import Work from './components/Work'
+import Contact from './components/Contact'
+import Footer from './components/Footer'
+function App() {
+  const [count, setCount] = useState(0)
+
+  return (
+    <>
+    <Navbar/>
+    <Hero/>
+    <Skills/>
+    <About/>
+ <Contact/>
+ <Footer/>
+    </>
+  )
+}
+
+export default App
