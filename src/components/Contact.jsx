@@ -37,8 +37,8 @@ const Contact = () => {
                                     </div>
 
                                 </div>
-                                <div className='sm:col-span-2'>
-                                    <button type='submit' className='text-xl w-full p-4 font-semibold text-white bg-gradient-to-br from-orange-500 to-pink-500 rounded-md'>Send</button>
+                                <div className='sm:col-span-2 flex justify-center items-center'>
+                                    <button type='submit' className='text-xl flex justify-center items-center w-[150px] p-2 font-semibold text-white bg-gradient-to-br border  rounded-md'>Send</button>
                                 </div></div>
                         </form>
                     </div>

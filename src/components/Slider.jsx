@@ -4,10 +4,10 @@ import ReactSlider from 'react-slider';
 const Slider = () => {
   // Array of languages with their proficiency levels and track colors
   const languages = [
-    { name: 'Frontened', level: 98, color: 'bg-red-500' },
-    { name: 'Backend', level: 95, color: 'bg-blue-500' },
+    { name: 'HTML, CSS, Bootstrap, JAVASCRIPT', level: 98, color: 'bg-red-500' },
+    { name: 'Node JS, Express, MongoDB', level: 95, color: 'bg-blue-500' },
 
-    { name: 'Mern Stack', level: 98, color: 'bg-yellow-500' },
+    { name: 'React JS, Tailwind', level: 98, color: 'bg-yellow-500' },
    
 
     // Add more languages as needed

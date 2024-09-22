@@ -21,9 +21,6 @@ const Hero = () => {
                             1000,
                             "Web Designer",
                             1000,
-                            "Mern Stack Dev",
-                            1000,
-
                         ]}
                         wrapper="span"
                         speed={50}
@@ -35,7 +32,7 @@ const Hero = () => {
                 </p>
                 <div className='my-8'>
                     <a href='/' className='px-6 py-3 w-full rounded-xl mr-4
-    bg-gradient-to-br from-orange-500 to-pink-500 text-white '>
+    border text-white '>
                         Download CV
                     </a>
                     <a href='#contact' className='px-6 py-3 w-full rounded-xl mr-4
