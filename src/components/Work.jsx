@@ -6,19 +6,19 @@ const Work = () => {
             imgSrc: './src/assets/images/project1.jpg',
             title: 'Project 1',
             description: 'A brief description of Project One.',
-            link: 'https://example.com/project1'
+            link: ''
         },
         {
             imgSrc: './src/assets/images/project1.jpg',
             title: 'Project 2',
             description: 'A brief description of Project Two.',
-            link: 'https://example.com/project2'
+            link: ''
         },
         {
             imgSrc: './src/assets/images/project1.jpg',
             title: 'Project 3',
             description: 'A brief description of Project Three.',
-            link: 'https://example.com/project3'
+            link: ''
         },
     ];
 
