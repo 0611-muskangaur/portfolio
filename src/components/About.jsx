@@ -9,7 +9,8 @@ const About = () => {
           <div className='my-auto mx-6'>
             <h2 className='text-4xl font-bold mb-4 primary-color'>About Me </h2>
             <p className='text-base lg:text:lg'>
-              I'm a motivated college student and an intern with a solid foundation in web development technologies, including HTML, CSS, JavaScript, Express, Node.js, the MERN stack, and SQL. Your hands-on experience with both frontend and backend development showcases your ability to build full-stack
+              I'm a motivated college student and an intern with a solid foundation in web development technologies, including HTML, CSS, JavaScript, Express, Node.js, the MERN stack, and SQL. 
+              My hands-on experience with both frontend and backend development showcases my ability to build full-stack
               applications, making you a versatile developer eager to learn and grow in the industry.
             </p>
           </div>

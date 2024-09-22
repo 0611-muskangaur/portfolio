@@ -3,7 +3,7 @@ import React from 'react';
 const Skills = () => {
     return (
         <div className='bg-black text-gray-400 md:h-[150px] max-w-[1200px] mx-auto grid grid-cols-3
-            place-items-center md:flex md:justify-between md:items-center' id="skills">
+            place-items-center md:flex md:justify-between md:items-center' id="skill">
             <h2 className='text-gray-400 text-2xl md:text-4xl font-bold m-4'>
                 My <br /> Tech <br /> Stack
             </h2>
